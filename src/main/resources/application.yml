@@ -1,0 +1,8 @@
+server:
+  servlet:
+    context-path: /deno
+  port: 8301
+
+  spring:
+    application:
+      name: cfs
